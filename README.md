@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Charu An Aspiring Business Analyst
+[![Gmail Badge](https://img.shields.io/badge/-charu2708@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:charu2708@gmail.com)](mailto:zarina.perez.2000@gmail.com) 
 
 ------------------------------------------------------------------------------------------------
 
@@ -10,5 +11,5 @@
 - 📫 How to reach me: ...Feel free to contact me via email or linkedin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love cooking 
------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
 
