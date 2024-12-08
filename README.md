@@ -1,9 +1,6 @@
 ## Hi there 👋 I am Charu An Aspiring Business Analyst
 
-<!--
-**Charu-Gupta-2708/Charu-Gupta-2708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working as a store manager  ...
 - 🌱 I’m currently learning Business Intelligence Analytics program from Triple Ten 
@@ -13,5 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...Feel free to contact me via email or linkedin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I love cooking 
--->
+-----------------------------------------------------------------------------------------------
 
