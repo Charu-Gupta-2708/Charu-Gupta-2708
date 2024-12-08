@@ -1,4 +1,4 @@
-## Hi there 👋 I am Charu an aspiring Business Analyst
+## Hi there 👋 I am Charu Gupta
 [![Gmail Badge](https://img.shields.io/badge/-charu2708@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:charu2708@gmail.com)](mailto:charu2708@gmail.com) 
 
 ------------------------------------------------------------------------------------------------
