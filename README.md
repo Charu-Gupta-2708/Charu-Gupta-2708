@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Charu Gupta
 [![Gmail Badge](https://img.shields.io/badge/-charu2708@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:charu2708@gmail.com)](mailto:charu2708@gmail.com) 
-
+[![Linkedin Badge](https://img.shields.io/badge/-charu--gupta-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charu-gupta-/)](https://www.linkedin.com/in/charu-gupta-/)
 ------------------------------------------------------------------------------------------------
 
 Hi! I’m Charu a aspiring business intelligence analyst with   more than 6 technical projects through Triple Ten 4-month BIA program. My skills include business analytics, advanced spreadsheets, SQL, tableau, storytelling, and Power BI. I am interested in opportunities looking for IT and services to explore my knowledge and enhance skills around various technologies.
