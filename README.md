@@ -14,6 +14,6 @@ Currently, working as a store manager in cold stone creamery with a background i
 
 - 📫 How to reach me: ...Feel free to contact me via email or linkedin 
   
-- ⚡ Fun fact: ...I love cooking 
+- ⚡ Fun fact: ...I love ssketching
 ------------------------------------------------------------------------------------------------
 
